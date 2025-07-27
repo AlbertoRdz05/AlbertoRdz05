@@ -1,6 +1,6 @@
 # 👨‍💻 ¡Hola, soy Alberto Rodriguez!
 
-Bienvenido a mi portafolio de DESARROLLO DE SOFTWARE
+Bienvenido a mi perfil de DESARROLLO DE SOFTWARE
 
 ---
 
