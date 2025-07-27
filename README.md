@@ -30,7 +30,7 @@ Bienvenido a mi perfil de DESARROLLO DE SOFTWARE
 ## 📫 Contacto
 
 - ✉️ **Correo:** alberto@example.com 
-- 💼 **LinkedIn:** [linkedin.com/in/tuusuario]([https://linkedin.com](https://www.linkedin.com/in/alberto-rodriguez-a53b29287))
+- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/alberto-rodriguez-a53b29287)
 
 
 ---
